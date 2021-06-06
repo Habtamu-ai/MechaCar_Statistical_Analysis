@@ -15,3 +15,6 @@
 ## Summary Statistics on Suspension Coils
 ![total_summary](https://user-images.githubusercontent.com/78656720/120931204-9a50bb00-c6be-11eb-8283-3a4baece78e6.PNG)
 ![group_summary](https://user-images.githubusercontent.com/78656720/120931215-9fae0580-c6be-11eb-9dc0-6621bd347403.PNG)
+
+
+## Study Design: MechaCar vs Competition
