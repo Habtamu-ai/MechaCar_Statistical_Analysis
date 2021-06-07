@@ -32,9 +32,7 @@ Looking at the the t-test result that compares all manufacturing lots against me
 
 
 ## Study Design: MechaCar vs Competition
-The metric this project recomends to test are city and highway fuel efficiencies.And the the Null Hypothesis would be all of the cars in the same class have the same fuel efficienies and the alternative hypothesis would be that they are not all the same.The project also recommends an ANOVA test to complete this analysis for both types of fuel efficiencies.Additionally, it would be good to use the ggplot2 library to show the potential spread between different cars using a boxplot.Finally, regarding the data that are nedded to do the the statstics are fuel efficiency data from 50 individual cars to create a sample size of data for each car in the class type.
-The statistical study design has the following:
-A metric to be tested is mentioned (5 pt)
-A null hypothesis or an alternative hypothesis is described (5 pt)
-A statistical test is described to test the hypothesis (5 pt)
-The data for the statistical test is described (5 pt)
+This project recommend A/B testing to properly evaluate potential fuel efficiency changes regarding the New MechaCard compared to old Model MechaCar.
+A/B testing is in use to test whether or not the new model has a significant fuel consumption change.The metric this project recomends to test is fuel efficiency.The null hypothesis would be **The new model car has no effect in fuel efficiency comapred to the old car model** And the alternative hypothesis would be **The new model car has a positive significant effect comapred to the old car model.**  The project also recommends a two-sample t-test should be used to compare the two model cars. 
+Finally, regarding the data that are nedded to do the the statstics, fuel efficiency data from 50 individual cars to create a sample size of data for each car in the class type.
+
