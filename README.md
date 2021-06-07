@@ -20,7 +20,8 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 ## T-Tests on Suspension Coils
 
-Looking at the the t-test result that compares all manufacturing lots against mean PSI of the population and using rule of thumb *we fail to regect the null hypothesis* at 95% level of significance. In addition, we compared each manufacturing lot against mean population and the result shows cosidering rule of thumb and 95% level of significance we only *accept the the alternative hypothesis* for Lot3 that says **true mean is not equal to 1500**.
+Looking at the the t-test result that compares all manufacturing lots against mean PSI of the population and using rule of thumb *we fail to regect the null hypothesis* at 95% level of significance. In addition, we compared each manufacturing lot against mean population and the result shows cosidering rule of thumb and 95% level of significance we only * regect the null hypothesis* and accept the alternative for Lot3 that says **true mean is not equal to 1500 ** .
+
 ![T_test](https://user-images.githubusercontent.com/78656720/121056734-83789a00-c78c-11eb-96f4-fec427241484.PNG)
 ![Lot1_ttest](https://user-images.githubusercontent.com/78656720/121056768-8e332f00-c78c-11eb-92d5-8fb3189065c7.PNG)
 ![Lot2_ttest](https://user-images.githubusercontent.com/78656720/121056789-925f4c80-c78c-11eb-8159-5d0d82e64351.PNG)
