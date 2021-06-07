@@ -12,7 +12,10 @@ The result of the multiple linear regression shows except AWD the rest of the pr
 ![Summary_Statstics](https://user-images.githubusercontent.com/78656720/121033671-62a74900-c77a-11eb-8fda-360ca7457822.PNG)
 
 ## Summary Statistics on Suspension Coils
+The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Looking at below result table the manufacturing data meet the criteria for all manufacturing lots because the variance is 62..29. However, the criterias are not fullfiled for each lots, Lot3 has a variance of 170 from the mean which fails the manufacturing specifications.
+
 ![total_summary](https://user-images.githubusercontent.com/78656720/120931204-9a50bb00-c6be-11eb-8283-3a4baece78e6.PNG)
+
 ![group_summary](https://user-images.githubusercontent.com/78656720/120931215-9fae0580-c6be-11eb-9dc0-6621bd347403.PNG)
 
 
