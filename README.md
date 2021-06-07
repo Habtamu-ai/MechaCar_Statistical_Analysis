@@ -12,7 +12,8 @@ The result of the multiple linear regression shows except AWD the rest of the pr
 ![Summary_Statstics](https://user-images.githubusercontent.com/78656720/121033671-62a74900-c77a-11eb-8fda-360ca7457822.PNG)
 
 ## Summary Statistics on Suspension Coils
-The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Looking at below result table the manufacturing data meet the criteria for all manufacturing lots because the variance is 62..29. However, the criterias are not fullfiled for each lots, Lot3 has a variance of 170 from the mean which fails the manufacturing specifications.
+
+The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Looking at below result table the manufacturing data meet the criteria for all manufacturing lots because the variance is 62.29. However, the criterias are not fullfiled for each lots, Lot3 has a variance of 170 from the mean which fails to meet the manufacturing specifications.
 
 ![total_summary](https://user-images.githubusercontent.com/78656720/120931204-9a50bb00-c6be-11eb-8283-3a4baece78e6.PNG)
 
@@ -31,6 +32,7 @@ Looking at the the t-test result that compares all manufacturing lots against me
 
 
 ## Study Design: MechaCar vs Competition
+The metric this project recomends to test are city and highway fuel efficiencies.And the the Null Hypothesis would be all of the cars in the same class have the same fuel efficienies and the alternative hypothesis would be that they are not all the same.The project also recommends an ANOVA test to complete this analysis for both types of fuel efficiencies.Additionally, it would be good to use the ggplot2 library to show the potential spread between different cars using a boxplot.Finally, regarding the data that are nedded to do the the statstics are fuel efficiency data from 50 individual cars to create a sample size of data for each car in the class type.
 The statistical study design has the following:
 A metric to be tested is mentioned (5 pt)
 A null hypothesis or an alternative hypothesis is described (5 pt)
