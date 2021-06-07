@@ -20,6 +20,13 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 ## T-Tests on Suspension Coils
 
+![T_test](https://user-images.githubusercontent.com/78656720/121056734-83789a00-c78c-11eb-96f4-fec427241484.PNG)
+![Lot1_ttest](https://user-images.githubusercontent.com/78656720/121056768-8e332f00-c78c-11eb-92d5-8fb3189065c7.PNG)
+![Lot2_ttest](https://user-images.githubusercontent.com/78656720/121056789-925f4c80-c78c-11eb-8159-5d0d82e64351.PNG)
+![Lot3_ttest](https://user-images.githubusercontent.com/78656720/121056799-955a3d00-c78c-11eb-94f9-698126cb9e55.PNG)
+
+
+
 An RScript is written for t-test that compares all manufacturing lots against mean PSI of the population (5 pt)
 An RScript is written for three t-tests that compare each manufacturing lot against mean PSI of the population (10 pt)
 There is a summary of the t-test results across all manufacturing lots and for each lot (5 pt)
