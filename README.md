@@ -1,14 +1,16 @@
 
 # MechaCar_Statistical_Analysis
 # Overview
-The main purpose of this project is to investigate AutosRUs’ newest prototype, the MechaCar, which is suffering from production troubles that are blocking the manufacturing team’s progress.This project is going to review the production data for insights that may help the manufacturing team.The project will perform multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes,collect summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots, run t-tests to determine if the manufacturing lots are statistically different from the mean population and finally,design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. 
+TheThe purpose of this project is to investigate AutosRUs’ newest prototype, the MechaCar, which is suffering from production troubles that are blocking the manufacturing team’s progress. This project is going to review the production data for insights that may help the manufacturing team. The project will perform multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes, collect summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots, run t-tests to determine if the manufacturing lots are statistically different from the mean population and finally, design a statistical study to compare vehicle performance of the mechanical vehicles against vehicles from other manufacturers.
 
 
 # Results
  ## Multiple lineare regression
-The result of the multiple linear regression shows except AWD the rest of the production parameters have positive relationship with MPG. Looking at the summary statistics we can say,Vehicle_Length and ground_clearance have positive and significant effect on mpg, and the significance level is at 1% statistican significance.Therefore we  failed to regect the null hypothesis tha vehicle length and ground clearance have no effect on mpg. And looking at the residuals 71% we can say the model explains mpg but we can be certwain there are missing variables. Finally, the slope of the linear model is not considered to be zero. This is because the linear regression shows that some of the independent variables had a significant effect on the dependent variable. 
+ 
+The result of the multiple linear regression shows, except AWD the rest of the production parameters have positive relationship with MPG. Looking at the summary statistics we can say,Vehicle_Length and ground_clearance have positive and significant effect on mpg, and the significance level is at 1% statistical significance level.Therefore we  failed to regect the null hypothesis tha vehicle length and ground clearance have no effect on mpg. And looking at the residuals 71% we can say the model explains mpg but we can be certwain that there are missing variables. Finally, the slope of the linear model is not considered to be zero. This is because the linear regression shows that some of the independent variables had a significant effect on the dependent variable. 
 
 ![LM](https://user-images.githubusercontent.com/78656720/120928671-953a3e80-c6b3-11eb-809a-f052bd66d8c3.PNG)
+
 ![Summary_Statstics](https://user-images.githubusercontent.com/78656720/121033671-62a74900-c77a-11eb-8fda-360ca7457822.PNG)
 
 ## Summary Statistics on Suspension Coils
