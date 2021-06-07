@@ -5,7 +5,7 @@ The main purpose of this project is to investigate AutosRUs’ newest prototype,
 
 
 # Results
- - Multiple lineare regression
+ ## Multiple lineare regression
 The result of the multiple linear regression shows except AWD the rest of the production parameters have positive relationship with MPG. Looking at the summary statistics we can say,Vehicle_Length and ground_clearance have positive and significant effect on mpg, and the significance level is at 1% statistican significance.Therefore we  failed to regect the null hypothesis tha vehicle length and ground clearance have no effect on mpg. And looking at the residuals 71% we can say the model explains mpg but we can be certwain there are missing variables.
 
 ![LM](https://user-images.githubusercontent.com/78656720/120928671-953a3e80-c6b3-11eb-809a-f052bd66d8c3.PNG)
@@ -18,6 +18,7 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 ![group_summary](https://user-images.githubusercontent.com/78656720/120931215-9fae0580-c6be-11eb-9dc0-6621bd347403.PNG)
 
+## T-Tests on Suspension Coils
 
 ## Study Design: MechaCar vs Competition
 The statistical study design has the following:
