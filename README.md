@@ -1,7 +1,7 @@
 
 # MechaCar_Statistical_Analysis
 # Overview
-TheThe purpose of this project is to investigate AutosRUs’ newest prototype, the MechaCar, which is suffering from production troubles that are blocking the manufacturing team’s progress. This project is going to review the production data for insights that may help the manufacturing team. The project will perform multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes, collect summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots, run t-tests to determine if the manufacturing lots are statistically different from the mean population and finally, design a statistical study to compare vehicle performance of the mechanical vehicles against vehicles from other manufacturers.
+The purpose of this project is to investigate AutosRUs’ newest prototype, the MechaCar, which is suffering from production troubles that are blocking the manufacturing team’s progress. This project is going to review the production data for insights that may help the manufacturing team. The project will perform multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes, collect summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots, run t-tests to determine if the manufacturing lots are statistically different from the mean population and finally, design a statistical study to compare vehicle performance of the mechanical vehicles against vehicles from other manufacturers.
 
 
 # Results
